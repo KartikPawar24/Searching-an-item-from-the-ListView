@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:local="clr-namespace:ListView_Search_using_Xamarin_Forms"
+             x:Class="ListView_Search_using_Xamarin_Forms.MainPage">
+    <StackLayout>
+        <Label  x:Name="MainLabel" Text="Search | ListView" TextColor="Red" HorizontalOptions="Center" FontSize="Large"/>
+        <SearchBar x:Name="MainSearchBar" SearchButtonPressed="Search_btnPressed"/>
+        <ListView x:Name="NamesListView"
+                  HasUnevenRows="True">
+            <ListView.ItemTemplate>
+                <DataTemplate>
+                    <ViewCell>
+                        <Label Text="{Binding .}"
+                               TextColor="Navy"
+                               FontSize="40"/>
+                    </ViewCell>
+                </DataTemplate>
+            </ListView.ItemTemplate>
+        </ListView>
+    </StackLayout>
+</ContentPage>

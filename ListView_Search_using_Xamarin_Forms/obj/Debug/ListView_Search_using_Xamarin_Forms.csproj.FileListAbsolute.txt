@@ -1,0 +1,14 @@
+C:\Users\Asus\source\repos\ListView Search using Xamarin Forms\ListView Search using Xamarin Forms\ListView_Search_using_Xamarin_Forms\obj\Debug\ListView_Search_using_Xamarin_Forms.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\ListView Search using Xamarin Forms\ListView Search using Xamarin Forms\ListView_Search_using_Xamarin_Forms\obj\Debug\ListView_Search_using_Xamarin_Forms.MainPage.xaml.g.cs
+C:\Users\Asus\source\repos\ListView Search using Xamarin Forms\ListView Search using Xamarin Forms\ListView_Search_using_Xamarin_Forms\obj\Debug\ListView_Search_using_Xamarin_Forms.App.xaml.g.cs
+C:\Users\Asus\source\repos\ListView Search using Xamarin Forms\ListView Search using Xamarin Forms\ListView_Search_using_Xamarin_Forms\bin\Debug\ListView_Search_using_Xamarin_Forms.dll
+C:\Users\Asus\source\repos\ListView Search using Xamarin Forms\ListView Search using Xamarin Forms\ListView_Search_using_Xamarin_Forms\bin\Debug\ListView_Search_using_Xamarin_Forms.pdb
+C:\Users\Asus\source\repos\ListView Search using Xamarin Forms\ListView Search using Xamarin Forms\ListView_Search_using_Xamarin_Forms\bin\Debug\Xamarin.Forms.Core.dll
+C:\Users\Asus\source\repos\ListView Search using Xamarin Forms\ListView Search using Xamarin Forms\ListView_Search_using_Xamarin_Forms\bin\Debug\Xamarin.Forms.Platform.dll
+C:\Users\Asus\source\repos\ListView Search using Xamarin Forms\ListView Search using Xamarin Forms\ListView_Search_using_Xamarin_Forms\bin\Debug\Xamarin.Forms.Xaml.dll
+C:\Users\Asus\source\repos\ListView Search using Xamarin Forms\ListView Search using Xamarin Forms\ListView_Search_using_Xamarin_Forms\bin\Debug\Xamarin.Forms.Core.pdb
+C:\Users\Asus\source\repos\ListView Search using Xamarin Forms\ListView Search using Xamarin Forms\ListView_Search_using_Xamarin_Forms\bin\Debug\Xamarin.Forms.Core.xml
+C:\Users\Asus\source\repos\ListView Search using Xamarin Forms\ListView Search using Xamarin Forms\ListView_Search_using_Xamarin_Forms\bin\Debug\Xamarin.Forms.Xaml.pdb
+C:\Users\Asus\source\repos\ListView Search using Xamarin Forms\ListView Search using Xamarin Forms\ListView_Search_using_Xamarin_Forms\bin\Debug\Xamarin.Forms.Xaml.xml
+C:\Users\Asus\source\repos\ListView Search using Xamarin Forms\ListView Search using Xamarin Forms\ListView_Search_using_Xamarin_Forms\obj\Debug\ListView_Search_using_Xamarin_Forms.dll
+C:\Users\Asus\source\repos\ListView Search using Xamarin Forms\ListView Search using Xamarin Forms\ListView_Search_using_Xamarin_Forms\obj\Debug\ListView_Search_using_Xamarin_Forms.pdb
